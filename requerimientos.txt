@@ -1,0 +1,13 @@
+jsonschema
+numpy
+requests
+bokeh
+Flask
+Flask-WTF
+ipython
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+Scrapy
