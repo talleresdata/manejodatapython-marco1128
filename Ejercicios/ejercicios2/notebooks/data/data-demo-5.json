@@ -1,7 +1,13 @@
 [
 {"nombres":"rené","apellidos":"elizalde"},
 {"nombres":"enrique","apellidos":"cueva"},
-{"nombres":"carlos","apellidos":"castillo", "edad":"edad12"},
-{"nombres":"pedro","apellidos":"salinas", "edad":"edad13"},
-{"nombres":"cristian","apellidos":"andrade", "edad":"edad14"}
+{"nombres":"carlos","apellidos":"castillo", "edad":"20"},
+{"nombres":"pedro","apellidos":"salinas", "edad":"22"},
+{"nombres":"cristian","apellidos":"andrade", "edad":"34"}
+
+{"nombres":"Marco","apellidos":"Briceño"},
+{"nombres":"Daniel","apellidos":"Ulloa"},
+{"nombres":"Alexis","apellidos":"Montoya", "edad":"12"},
+{"nombres":"Pablo","apellidos":"Briceño", "edad":"13"},
+{"nombres":"Lucho","apellidos":"Kuday", "edad":"14"}
 ]
